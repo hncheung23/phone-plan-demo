@@ -1,8 +1,11 @@
 # phone-plan-demo
 
-following the json format\ 
-title, price and fields are required\
-make sure the structure of fields are the same among all the plans\
+-following the json format
+
+-title, price and fields are required
+
+-make sure the structure of fields are the same among all the plans
+
 ```json
 {
   plans: [
