@@ -1,0 +1,10 @@
+.confirmButton-root {
+    margin-top: auto;
+    margin-bottom: 10vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid;
+    height: 5vh;
+    cursor: pointer;
+}
